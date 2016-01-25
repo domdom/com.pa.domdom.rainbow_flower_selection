@@ -1,0 +1,22 @@
+{
+    "context": "client",
+    "identifier": "com.pa.domdom.rainbow_flower_selection",
+    "display_name": "Rainbow Ring",
+    "description": "Makes your boring blue circle selection rings fabulous, exciting rainbow blossoms instead!",
+    "author": "dom314",
+    "forum": "https://forums.uberent.com/threads/rel-client-rainbow-ring.71299/",
+    "icon": "http://i.imgur.com/XNOaPg9.png?1",
+    "version": "1.0.0",
+    "category": [
+        "in-game",
+        "effects",
+        "shader"
+    ],
+    "product": [
+        "Titans",
+        "Classic"
+    ],
+    "priority": 100,
+    "build": "89755",
+    "date": "2016/01/26"
+}
